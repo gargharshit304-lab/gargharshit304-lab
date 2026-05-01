@@ -1,7 +1,6 @@
 # 💫 About Me:
 [![MasterHead](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)](https://rishavchanda.io)
 
-
 I am currently working on my Foundation Building, backend development, APIs, and cybersecurity-focused projects along with improving problem solving skillsthrough coding practice.<br><br> I'm looking to Collaboarte on  Beginner to intermediate level projects related to web development, backend system, cybersecrity tools and hackathon ideas<br><br> I'm looking for help with writing backend logic, understanding real world APIs security and improving project arcitecture.<br><br>I'm currently learning Python, JAVA, C++, C, Scripting Language and core concept of cybersecurity<br><br>Ask me about Java basics, python, backend fundamental, Hackathon and getting started in cybersecurity as a student<br><br>I learn best by building projects and help other in their doubt clarification<br><br>Always ready to take up challenges and learn new tech😎
 
 
@@ -44,5 +43,4 @@ I am currently working on my Foundation Building, backend development, APIs, and
 </a>
 </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+<!-- Proudly created 
